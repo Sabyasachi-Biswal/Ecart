@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+nav{
+    background-color: rgb(255, 128, 0);
+    text-align: right;
+    padding: 10px;
+  }
+  .navigate,.login{
+    background-color: inherit;
+    font-size: larger;
+    font-weight: bolder;
+    border: none;
+    padding: 20px;
+    border-left: 2px solid white;
+    color:white
+  }
+  .navigate:hover,.login:hover{
+    cursor: pointer;
+    background-color: brown;
+}
+  
+  .num{
+    border-radius: 50%;
+    background-color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    color: black;
+  }
+  .logo{
+    float: left;
+    margin-top: -6px;
+  }
+
+  .logo img{
+    width: 90%
+  }

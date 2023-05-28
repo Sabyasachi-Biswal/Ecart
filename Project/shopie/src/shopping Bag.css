@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 10px;
+    font-size: 50px;
+}
+.total{
+    background-color: rgb(255, 132, 0);
+    font-size: xx-large;
+    font-weight: bolder;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: right;
+    width: 90%;
+    margin: auto;
+    border: 5px solid rgb(139, 102, 35);
+    box-shadow: 5px 5px 5px grey;
+}
